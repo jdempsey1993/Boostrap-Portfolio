@@ -1,2 +1,2 @@
-# Boostrap-Portfolio
+# Bootstrap-Portfolio
 HW2
